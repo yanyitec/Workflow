@@ -1,0 +1,3 @@
+﻿该目录存放的类，是存储类。
+基本跟States目录里面的类一一对应，可以跟*State类相互转换
+用于EntityFramework或Repository做持久化

@@ -1,0 +1,22 @@
+﻿Activity.GetVariable(name)
+1 查找ActivityState.Variables
+2 查找Process.Variables
+
+Activity的Variables来源
+1 原先是null,就是上个节点的result
+2 否则就是上个节点的result跟现有的Variables拼接
+
+Process的Variable来源。
+Process.Start的inputs,或者合并。
+每个Activity的Result都会散开到Process里面去
+
+Process的Result是最后一个节点的result
+
+Result是一个object,但该值必须能被json序列化
+如果该Result的类型是ExecuteResult，才会被分解到Variable中去
+
+----------------------------------------------------------------------
+有一个Invocation对象，表示一次执行。
+Process有一个RuntimeData:Dictionary<string,object>
+用于在每次执行时在Activity之间传递数据
+INVOCATOIN会记录本次执行的Variables,ActivityState堆栈,

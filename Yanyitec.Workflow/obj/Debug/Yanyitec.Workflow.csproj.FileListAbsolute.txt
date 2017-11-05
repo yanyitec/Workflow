@@ -1,0 +1,8 @@
+D:\np3\Yanyitec.Workflow\Yanyitec.Workflow\obj\Debug\Yanyitec.Workflow.csprojResolveAssemblyReference.cache
+D:\np3\Yanyitec.Workflow\Yanyitec.Workflow\bin\Debug\Yanyitec.Workflow.exe.config
+D:\np3\Yanyitec.Workflow\Yanyitec.Workflow\bin\Debug\Yanyitec.Workflow.exe
+D:\np3\Yanyitec.Workflow\Yanyitec.Workflow\bin\Debug\Yanyitec.Workflow.pdb
+D:\np3\Yanyitec.Workflow\Yanyitec.Workflow\bin\Debug\Newtonsoft.Json.dll
+D:\np3\Yanyitec.Workflow\Yanyitec.Workflow\bin\Debug\Newtonsoft.Json.xml
+D:\np3\Yanyitec.Workflow\Yanyitec.Workflow\obj\Debug\Yanyitec.Workflow.exe
+D:\np3\Yanyitec.Workflow\Yanyitec.Workflow\obj\Debug\Yanyitec.Workflow.pdb
